@@ -1,5 +1,5 @@
 
-# BCarding v3.0
+# BCarding v5.0
 
 🚀 أداة ذكية للاتصال بالشبكات العامة (WiFi Hotspot) بدون الحاجة لبطاقات أو أكواد شحن.
 
@@ -28,7 +28,7 @@ apt update -y && apt upgrade -y
 apt install curl wget git -y
 git clone https://github.com/blue24bluer/BCarding
 cd BCarding
-bash BCarding
+bash BCarding.py
 ````
 
 ---
@@ -39,6 +39,14 @@ bash BCarding
 > يجب شراء **كلمة السر** الخاصة بالتفعيل بعد الدفع.
 
 ---
+
+* Updates :
+  - تعديل الادوات المحليه الخاصه بالcode
+  - استبدال python بـGolang محليا للسرعه
+  - تخفيف الموارد و ضبط السرعه
+  - حل المشاكل السابقه في إصدار 3.0
+  - سماح المستخدمين بالتجربه المجانيه فقط 10 مرات
+
 ---
 
 ## 📞 الدعم الفني
